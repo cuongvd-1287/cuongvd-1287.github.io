@@ -1,0 +1,11 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "DZNDUUNX92.com.deepLinkIOS",
+                "paths": ["*"]
+            }
+        ]
+    }
+}
