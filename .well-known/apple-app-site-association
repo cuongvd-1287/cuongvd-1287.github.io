@@ -4,15 +4,15 @@
         "details": [
             {
 				"appID": "DZNDUUNX92.com.sun.edx.dev",
-				"paths": ["/learn/*", "*"]
+				"paths": ["/learn/*"]
 			},
 			{
 				"appID": "DZNDUUNX92.com.sun.edx.stg",
-				"paths": ["/learn/*", "*"]
+				"paths": ["/learn/*"]
 			},
             {
                 "appID": "DZNDUUNX92.com.sun.edx",
-                "paths": ["/learn/*", "*"]
+                "paths": ["/learn/*"]
             }
         ]
     }
