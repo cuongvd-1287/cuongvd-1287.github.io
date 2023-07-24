@@ -13,6 +13,16 @@
             {
                 "appID": "DZNDUUNX92.com.sun.edx",
                 "paths": ["/learn/*"]
+            },
+            {
+                "appIDs": ["DZNDUUNX92.com.sun.edx.dev", 
+                "DZNDUUNX92.com.sun.edx.stg", 
+                "DZNDUUNX92.com.sun.edx"],
+                "component": [
+                    {
+                        "/": "/learn/*"
+                    }
+                ]
             }
         ]
     }
